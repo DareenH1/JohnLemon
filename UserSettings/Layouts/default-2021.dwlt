@@ -43,12 +43,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1706.6667
+    width: 1706.6666
     height: 926
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 17
+  controlID: 105
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -66,7 +66,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1302.6666
     y: 0
-    width: 404.00012
+    width: 404
     height: 926
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
@@ -149,7 +149,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1706.6667
+    width: 1706.6666
     height: 976
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -174,7 +174,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1706.6667
+    width: 1706.6666
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -196,7 +196,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 956
-    width: 1706.6667
+    width: 1706.6666
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 67
+  controlID: 74
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 68
+  controlID: 75
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -429,24 +429,24 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SkipHidden: 0
-    m_SearchArea: 0
+    m_SearchArea: 1
     m_Folders:
-    - Assets/UnityTechnologies/3DBeginnerTutorial/Scripts
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 71
   m_LastFolders:
-  - Assets/UnityTechnologies/3DBeginnerTutorial/Scripts
+  - Assets/Scenes
   m_LastFoldersGridSize: 71
-  m_LastProjectPath: C:\Users\daree\OneDrive\Unity\JohnsLemonsHaunt\JohnLemonsHaunt
+  m_LastProjectPath: C:\JohnLemon
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 147.66669}
-    m_SelectedIDs: fa970000
-    m_LastClickedID: 38906
-    m_ExpandedIDs: 00000000d07f00008e97000092970000c2970000c89700004c9800005e98000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 74780000
+    m_LastClickedID: 30836
+    m_ExpandedIDs: 000000006478000066780000687800006a7800006c7800006e78000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -474,7 +474,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000006478000066780000687800006a7800006c7800006e780000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -552,7 +552,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1302.6667
     y: 72.66667
-    width: 403.00012
+    width: 403
     height: 905
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -604,9 +604,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: a26ffdff
-      m_LastClickedID: -168030
-      m_ExpandedIDs: a849fdff90a2fdfff83afeff023bfeff4297ffff32f2ffff64f4ffff
+      m_SelectedIDs: d0620000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 10d6ffff60d7ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -889,9 +889,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -9.717275, y: 1.4397882, z: 0.23564434}
+    m_Target: {x: -4.1971083, y: 0.53850937, z: -2.4555101}
     speed: 2
-    m_Value: {x: -9.717275, y: 1.4397882, z: 0.23564434}
+    m_Value: {x: -4.1971083, y: 0.53850937, z: -2.4555101}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -938,13 +938,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.23945464, y: 0.008736961, z: -0.002143538, w: 0.97088003}
+    m_Target: {x: 0.26984262, y: 0.33997068, z: -0.102483295, w: 0.8950587}
     speed: 2
-    m_Value: {x: 0.23945136, y: 0.00873684, z: -0.0021435088, w: 0.97086674}
+    m_Value: {x: 0.26983887, y: 0.33996594, z: -0.102481864, w: 0.89504623}
   m_Size:
     m_Target: 5.136565
     speed: 2
-    m_Value: 4.9153733
+    m_Value: 5.136565
   m_Ortho:
     m_Target: 0
     speed: 2
